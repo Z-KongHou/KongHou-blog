@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/theme-keep/hexo-theme-keep-starter#readme",
   "hexo": {
-    "version": "7.3.0"
+    "version": "7.0.0"
   },
   "dependencies": {
     "hexo": "^7.0.0",
@@ -37,4 +37,8 @@
     "hexo-theme-keep": "^4.2.3",
     "hexo-wordcount": "^6.0.1"
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 66d92c0 (first commit)

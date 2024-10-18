@@ -1,8 +1,8 @@
 # Hexo Theme Keep Starter
 
-## Get start
+## 快速开始
 
-### Install dependencies
+### 安装依赖
 
 ```bash
 npm install
