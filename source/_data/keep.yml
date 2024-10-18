@@ -77,15 +77,15 @@ social_contact:
     # If you want to click open the picture, you need to add a prefix `img | `,
     # at the same time change your link to the image link.
     # e.g. `weixin: img | ./images/qrcode.png`
-    github:          # GitHub
+    github: https://github.com/Z-KongHou          # GitHub
     weixin:          # WeChat
-    qq:              # QQ
+    qq: 2784332934           # QQ
     weibo:           # WeiBo
     zhihu:           # ZhiHu
     twitter:         # Twitter
     x:               # X
     facebook:        # Facebook
-    email:           # Email
+    email: konghou886@gmail.com          # Email
 
 
 # ---------------------------------------------------------------------------------------
