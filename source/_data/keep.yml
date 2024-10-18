@@ -79,13 +79,13 @@ social_contact:
     # e.g. `weixin: img | ./images/qrcode.png`
     github: https://github.com/Z-KongHou          # GitHub
     weixin:          # WeChat
-    qq: 2784332934           # QQ
+    qq:           # QQ
     weibo:           # WeiBo
     zhihu:           # ZhiHu
     twitter:         # Twitter
     x:               # X
     facebook:        # Facebook
-    email: konghou886@gmail.com          # Email
+    email:      # Email
 
 
 # ---------------------------------------------------------------------------------------
