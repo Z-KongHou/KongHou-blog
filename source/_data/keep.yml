@@ -78,7 +78,7 @@ social_contact:
     # at the same time change your link to the image link.
     # e.g. `weixin: img | ./images/qrcode.png`
     github: https://github.com/Z-KongHou          # GitHub
-    weixin:          # WeChat
+    weixin: img | /images/wechat.jpg         # WeChat
     qq:           # QQ
     weibo:           # WeiBo
     zhihu:           # ZhiHu
