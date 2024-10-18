@@ -9,7 +9,7 @@
 # ---------------------------------------------------------------------------------------
 base_info:
   # Theme primary color
-  primary_color: "#0066cc"
+  primary_color: "#00FF99"
 
   # Blog website title
   title: KongHou'blog
@@ -18,13 +18,15 @@ base_info:
   author: KongHou
 
   # Author avatar, You can use local image path or image link
-  avatar: /images/avatar.svg
+  avatar: /images/p2.jpg
 
   # Website LOGO, You can use local image path or image link
-  logo: /images/logo.svg
+  logo: /images/p1.jpg
 
   # Website favicon, You can use local image path or image link
-  favicon: /images/logo.svg
+  favicon: /images/p3.jpg
+
+  mode: light
 
 
 # ---------------------------------------------------------------------------------------
@@ -49,7 +51,7 @@ menu:
 # Docs: https://keep-docs.xpoet.cn/basis/configuration-guide/first_screen.html
 # ---------------------------------------------------------------------------------------
 first_screen:
-  enable: false  # Option values: true | false
+  enable: true  # Option values: true | false
 
   # First screen background image in light mode, You can use local image path or image link
   background_img: /images/bg.svg
