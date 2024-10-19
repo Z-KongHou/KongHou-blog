@@ -116,7 +116,9 @@ home:
   tag: true                # Option values: true | false
 
   # Set the datetime type of home page post block
-  post_datetime: updated    # Option values: updated | created
+  post_datetime: created   # Option values: updated | created
+
+  post_datetime_format: ago
 
 
 # ---------------------------------------------------------------------------------------
@@ -129,7 +131,7 @@ post:
 
     # If true, show Lv1, Lv2, Lv3 ...
     # If false, show custom badge
-    level_badge: true    # Option values: true | false
+    level_badge: false   # Option values: true | false
 
     # Custom badge array, You can be fill one or more item
     custom_badge: ["One", "Two", "Three"]
@@ -139,13 +141,13 @@ post:
   # See: https://github.com/willin/hexo-wordcount
   word_count:
     wordcount: true     # Word count, one post. Option values: true | false
-    min2read: true      # Time to read, one post. Option values: true | false
+    min2read: false     # Time to read, one post. Option values: true | false
 
   # Post datetime
-  datetime_format: "YYYY-MM-DD HH:mm:ss"  # Datetime format. e.g. "YYYY-MM-DD HH:mm:ss"
+  datetime_format: "YYYY-MM-DD"  # Datetime format. e.g. "YYYY-MM-DD HH:mm:ss"
 
   # Post copyright info
-  copyright_info: true  # Option values: true | false
+  copyright_info: false # Option values: true | false
 
   # Post share
   share: true           # Option values: true | false
@@ -156,7 +158,7 @@ post:
     img_link:            # Image link for the payment QR code
     text:                # Custom reward text, Can be null
 
-
+  img-align: center
 # ---------------------------------------------------------------------------------------
 # Docs: https://keep-docs.xpoet.cn/basis/configuration-guide/code_block.html
 # ---------------------------------------------------------------------------------------
@@ -194,7 +196,7 @@ website_count:
   # busuanzi
   # See: http://ibruce.info/2015/04/04/busuanzi/
   busuanzi_count:
-    enable: true     # Option values: true | false
+    enable: false    # Option values: true | false
     site_uv: true    # Option values: true | false
     site_pv: true    # Option values: true | false
     page_pv: true    # Option values: true | false
@@ -311,12 +313,12 @@ pjax:
 # Docs: https://keep-docs.xpoet.cn/basis/configuration-guide/footer.html
 # ---------------------------------------------------------------------------------------
 footer:
-  since: 2020           # The starting year of your website, Can be null
-  word_count: false     # Option values: true | false
+  since:           # The starting year of your website, Can be null
+  word_count: true    # Option values: true | false
 
   site_deploy:
-    enable: false        # Option values: true | false
-    provider: github     # Option values: github | vercel | netlify | cloudflare | gitee | aliyun | tencent_cloud | upyun
+    enable: false      # Option values: true | false
+    provider: vercel     # Option values: github | vercel | netlify | cloudflare | gitee | aliyun | tencent_cloud | upyun
     url:                 # Your deployment provider url, Can be null
 
   record:
