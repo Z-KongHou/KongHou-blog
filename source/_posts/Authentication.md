@@ -1,7 +1,6 @@
 ---
 title: 何为鉴权方案以及常用  
 tags: [鉴权]
-categories: [鉴权]
 ---
 
 # **鉴权(Authentication)**   
