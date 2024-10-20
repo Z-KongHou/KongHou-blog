@@ -1,8 +1,8 @@
 ---
 title: 我的第一篇博客
-tags: 
+tags: [Undefined]
 categories: 
-time: 2024-10-19
+date: 2024-10-19
 ---
 ## This is my first blog!!!!!
 
