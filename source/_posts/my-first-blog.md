@@ -1,5 +1,5 @@
 ---
-title: My first blog
+title: 我的第一篇博客
 tags: 
 categories: 
 ---
