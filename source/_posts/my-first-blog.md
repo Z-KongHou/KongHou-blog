@@ -2,6 +2,7 @@
 title: 我的第一篇博客
 tags: 
 categories: 
+time: 2024-10-19
 ---
 ## This is my first blog!!!!!
 
