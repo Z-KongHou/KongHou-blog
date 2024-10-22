@@ -12,7 +12,7 @@ base_info:
   primary_color: "#66FF99"
 
   # Blog website title
-  title: KongHou'blog
+  title: KongHou's blog
 
   # Blog website author name
   author: KongHou
@@ -43,7 +43,7 @@ menu:
   # links: /links               # || fa-solid fa-link
   # photos: /photos             # || fa-solid fa-image
   # tools: /tools               # || fa-solid fa-tools
-  # about: /about               # || fa-solid fa-user-graduate
+  about: /about               # || fa-solid fa-user-graduate
   # ......
 
 
