@@ -236,3 +236,5 @@ function greet(str: null | string) {
 
 这些表达在类似 if 结构中会被强行转化为 false，其他的则被转化为 true
 还有运算符 in ，instanceof 等也可以通过缩小原理维护代码类型安全，不再细述
+
+### 类型谓词
