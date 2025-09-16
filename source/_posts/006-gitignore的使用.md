@@ -1,7 +1,8 @@
 ---
 title: .gitignore的使用
 date: 2025-05-27 16:36:26
-tags:
+tags: [git]
+categories: [git]
 ---
 
 # 掌握.gitignore，团队开发效率++！
