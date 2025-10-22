@@ -2,7 +2,7 @@
 title: How to build a Hugo site
 tag: [Hugo]
 categories: [课业学习]
-date: 2024-09-27 16:36:26
+date: 2024-10-27 16:36:26
 ---
 
 # Start a Hugo site
