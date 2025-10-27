@@ -9,7 +9,7 @@
 # ---------------------------------------------------------------------------------------
 base_info:
   # Theme primary color
-  primary_color: "#66FF99"
+  primary_color: '#66FF99'
 
   # Blog website title
   title: KongHou's blog
@@ -59,7 +59,7 @@ first_screen:
 
   # First screen description
   # You can use the "||" to begin a newline, maximum is two lines.
-  description: 一位正在努力学习的web开发工程师...
+  description: 一位正在努力学习的 Web 开发工程师...
 
   # If enable hitokoto, first screen description is different every time when you enter the website
   hitokoto: false # Option values: true | false
@@ -113,7 +113,7 @@ home:
   # Set the datetime type of home page post block
   post_datetime: created # Option values: updated | created
 
-  post_datetime_format: "YYYY-MM-DD"
+  post_datetime_format: 'YYYY-MM-DD'
 
 # ---------------------------------------------------------------------------------------
 # Docs: https://keep-docs.xpoet.cn/basis/configuration-guide/post.html
@@ -128,7 +128,7 @@ post:
     level_badge: false # Option values: true | false
 
     # Custom badge array, You can be fill one or more item
-    custom_badge: ["One", "Two", "Three"]
+    custom_badge: ['One', 'Two', 'Three']
 
   # Post word count
   # Depend on Hexo Plugin: hexo-wordcount (`npm install hexo-wordcount`)
@@ -138,7 +138,7 @@ post:
     min2read: false # Time to read, one post. Option values: true | false
 
   # Post datetime
-  datetime_format: "YYYY-MM-DD" # Datetime format. e.g. "YYYY-MM-DD HH:mm:ss"
+  datetime_format: 'YYYY-MM-DD' # Datetime format. e.g. "YYYY-MM-DD HH:mm:ss"
 
   # Post copyright info
   copyright_info: false # Option values: true | false
